@@ -4,7 +4,7 @@
 To write a Python program to build a binary search tree using a built-in function.
 
 ---
-
+ 
 ## ALGORITHM:
 
 1. **Start the program.**
